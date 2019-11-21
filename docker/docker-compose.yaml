@@ -1,10 +1,11 @@
 version: "3"
 services:
   jupytR:
-    build: 
-      dockerfile: "./Dockerfile"
-    container_name: jupytR
-    image: jupytR
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    container_name: jupytR2
+    image: jupytr
     restart: unless-stopped
     logging:
       driver: json-file

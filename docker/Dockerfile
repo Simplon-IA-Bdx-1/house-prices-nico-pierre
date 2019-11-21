@@ -1,6 +1,6 @@
 FROM jupyter/datascience-notebook
 USER root
-COPY requirements.txt /tmp/
+COPY docker/requirements.txt /tmp/
 RUN pip install -r /tmp/requirements.txt
 RUN jupyter contrib nbextension install
 RUN R -e "install.packages('FactoMineR', repos='http://cran.irsn.fr/')"
