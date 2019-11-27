@@ -1,5 +1,6 @@
 sources/
 .ipynb_checkpoints/
+storage/
 # Created by https://www.gitignore.io/api/r,git,vim,linux,python,windows,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=r,git,vim,linux,python,windows,visualstudiocode
 
