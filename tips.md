@@ -11,7 +11,7 @@
 
 - Linéaire XGBoost 1 feature
 - Linéaire en réseau de neurones (1 input, 1 output) 1 feature Num
-- NN complexe (Ensemble, RF) Toutes
 - Linéaire sur PCA Num
 - XGB toutes features
 - Deepnet toutes features
+- NN complexe (Ensemble, RF) Toutes
