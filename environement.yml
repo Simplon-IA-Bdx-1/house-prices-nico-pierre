@@ -1,0 +1,13 @@
+name: house-prices
+channels:
+  - conda-forge
+  - default
+dependencies:
+- python=3.7
+- pandas
+- matplotlib
+- seaborn
+- numpy
+- pickleshare
+- pip:
+    - nb-clear
