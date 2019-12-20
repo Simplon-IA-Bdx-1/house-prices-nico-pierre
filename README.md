@@ -13,4 +13,4 @@ Then, just run the differents Jupyter Notebooks linked below.
 
 ---
 
-[<i class=­"­ico­n-f­ile­"­></­i> The Notebook](./Linear-Regression-Keras-AllFeatures.ipynb)
+The Notebook](./Linear-Regression-Keras-AllFeatures.ipynb)
